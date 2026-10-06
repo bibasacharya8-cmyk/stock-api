@@ -1,0 +1,5 @@
+# Never upload secrets: your Alpha Vantage key goes in Render's Environment tab
+.env
+__pycache__/
+.venv/
+venv/
